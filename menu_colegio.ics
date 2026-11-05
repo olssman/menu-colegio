@@ -1,219 +1,247 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Guiso de judías blancas con patata\, tomate\, zanahoria\, cebolla
-  y pimiento - Tortilla de patatas con cebolla v1 - Tomate aliñado con mai
- z - Pera - Pan ecológico integral 100%
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261001
-DTSTAMP:20261005T124223Z
+SUMMARY:Crema de puerro\, patata\, calabacin y zanahoria v.1 - Pavo al hor
+ no con salsa de cebolla y ajo v3 - Patatas gajo especiadas al horno v1 - F
+ ruta: plátano - Pan blanco ecológico
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20261105T154510Z
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arroz hervido con ajo\, aove y sal v.1 - Garbanzos\, calabaza\, ce
- bolla\, zanahoria y pimiento rojo guisado al curry - Ensalada de espinacas
-  con tomate - Mandarina - Pan blanco ecológico
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261002
-DTSTAMP:20261005T124223Z
+SUMMARY:Ensalada de lechuga\, tomate\, zanahoria\, maiz y huevo duro - Gui
+ so de judías blancas con patata\, tomate\, zanahoria\, cebolla y pimiento
+  - Queso fresco - Pera - Pan ecológico integral 100%
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261103
+DTSTAMP:20261105T154510Z
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ensalada de lechuga\, maíz y zanahoria v.1 - Guiso de patatas con
-  lentejas\, zanahoria y pimiento - Queso fresco - Fruta: plátano - Pan bl
- anco ecológico
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261005
-DTSTAMP:20261005T124223Z
+SUMMARY:Arroz integral hervido con tomate - Merluza al horno con aceite de
+  oliva y perejil v.2 - Ensalada de lechuga\, maiz y atun - Pera - Pan blan
+ co ecológico
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261104
+DTSTAMP:20261105T154510Z
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ensalada de espirales con huevo duro\, maíz\, zanahoria y aceitun
- as - Merluza al horno con aceite de oliva y perejil v.2 - Lechuga aliñada
-  - Pera - Pan ecológico integral 100%
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261006
-DTSTAMP:20261005T124223Z
+SUMMARY:Guiso de patatas con garbanzos y poton - Huevos revueltos - Ensala
+ da de lechuga\, pepino y queso fresco - Fruta: plátano - Pan ecológico i
+ ntegral 100%
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261105
+DTSTAMP:20261105T154510Z
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arroz vaporizado hervido con tomate - Tortilla francesa al horno v
- 1 - Ensalada de lechuga\, tomate y aceitunas - Naranja - Pan blanco ecoló
- gico
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261007
-DTSTAMP:20261005T124223Z
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crema de espinacas\, calabacín y cebolla - Magro de cerdo guisado
-  en salsa con champiñones - Pisto de patata\, calabacin\, berenjena y sal
- sa de tomate - Fruta: plátano - Pan ecológico integral 100%
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261008
-DTSTAMP:20261005T124223Z
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guiso de patatas con garbanzos y poton - Tortilla de patatas con c
- alabacín v1 - Ensalada de brotes tiernos\, tomate y queso fresco - Manzan
- a - Pan blanco ecológico
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261009
-DTSTAMP:20261005T124223Z
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crema de calabacín y puerros con queso - Ensalada de garbanzos cr
- ujientes con lechuga\, maíz\, zanahoria y aceitunas - Tomate aliñado - Y
- ogurt - Pan blanco ecológico
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261012
-DTSTAMP:20261005T124223Z
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crema de puerro\, patata\, calabacin y zanahoria v.1 - Salmon al h
- orno con eneldo - Patatas panaderas con pimientos al horno v.1 - Mandarina
-  - Pan ecológico integral 100%
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261013
-DTSTAMP:20261005T124223Z
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ensalada de lechuga\, tomate\, zanahoria\, maiz y huevo duro - Pas
- ta integral con tomate\, ternera y queso - Queso fresco - Manzana - Pan bl
- anco ecológico
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261014
-DTSTAMP:20261005T124223Z
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guiso de patatas con lentejas\, zanahoria y pimiento - Tortilla de
-  patatas con cebolla v1 - Ensalada de brotes tiernos\, tomate y manzana - 
- Pera - Pan ecológico integral 100%
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261015
-DTSTAMP:20261005T124223Z
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arroz vaporizado hervido con tomate - Pollo guisado con especias -
-  Ensalada de lechuga\, tomate y huevo duro. - Naranja - Pan blanco ecológ
- ico
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261016
-DTSTAMP:20261005T124223Z
+SUMMARY:Cuscus hervido v.1 - Hamburguesa de ternera 100% al horno - Ensala
+ da de espinacas con tomate - Mandarina - Pan blanco ecológico
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261106
+DTSTAMP:20261105T154510Z
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crema de verduras con patata\, coliflor\, puerro y champiñones - 
- Merluza al horno con aceite de oliva y perejil v.2 - Patatas gajo especiad
- as al horno v1 - Fruta: plátano - Pan blanco ecológico
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261019
-DTSTAMP:20261005T124223Z
+ Salmón al limón al horno - Patatas gajo especiadas al horno v1 - Mandari
+ na - Pan blanco ecológico
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261105T154510Z
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Guiso de judías blancas con patata\, tomate\, zanahoria\, cebolla
-  y pimiento - Tortilla de patatas con calabacín v1 - Ensalada de lechuga\
- , pepino y queso fresco - Manzana - Pan ecológico integral 100%
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20261005T124223Z
+SUMMARY:Ensalada de tomate\, maíz\, lechuga\, naranja y atún - Guiso de 
+ patatas con lentejas\, zanahoria y pimiento - Crudités de zanahoria - Fru
+ ta: plátano - Pan ecológico integral 100%
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20261105T154510Z
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lechuga aliñada con atún y maiz - Sopa de garbanzos con pasta me
- nuda - Tomate aliñado con zanahoria - Yogurt - Pan blanco ecológico
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261021
-DTSTAMP:20261005T124223Z
+SUMMARY:Ensalada de lechuga\, tomate\, zanahoria y aceitunas - Arroz vapor
+ izado hervido con tomate - Huevo a la plancha - Pera - Pan blanco ecológi
+ co
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20261105T154510Z
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cazuela de arroz con patata\, limanda\, guisantes y zanahoria - To
- rtilla francesa al horno v1 - Tomate y pepino aliñado - Pera - Pan ecoló
- gico integral 100%
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261022
-DTSTAMP:20261005T124223Z
+SUMMARY:Pasta integral con salsa de tomate y champiñones - Cinta de lomo 
+ de cerdo al horno en salsa - Lechuga aliñada - Fruta: plátano - Pan ecol
+ ógico integral 100%
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261112
+DTSTAMP:20261105T154510Z
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ensalada de lechuga\, zanahoria\, maíz y naranja - Pasta integral
-  con tomate\, atun y queso - Huevo duro - Pera - Pan blanco ecológico
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261023
-DTSTAMP:20261005T124223Z
+SUMMARY:Puchero de garbanzos con calabaza\, patata\, zanahoria y pollo v1 
+ - Tortilla francesa al horno v1 - Tomate aliñado - Yogurt natural - Pan b
+ lanco ecológico
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261105T154510Z
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crema de calabaza\, zanahoria y calabacín v2 - Cinta de lomo de c
- erdo al horno en salsa - Patatas panaderas con pimientos al horno v.1 - Fr
- uta: plátano - Pan blanco ecológico
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261005T124223Z
+SUMMARY:Ensalada de lechuga\, maíz y zanahoria v.1 - Guiso de judías bla
+ ncas con patata\, tomate\, zanahoria\, cebolla y pimiento - Queso fresco -
+  Fruta: plátano - Pan blanco ecológico
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261105T154510Z
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Potaje de garbanzos con espinacas - Tortilla de patatas con ceboll
- a v1 - Ensalada de brotes tiernos\, tomate y queso fresco - Pera - Pan eco
- lógico integral 100%
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261027
-DTSTAMP:20261005T124223Z
+SUMMARY:Pasta integral con tomate\, atun y queso - Huevo duro v2 - Ensalad
+ a de brotes tiernos\, tomate y manzana - Pera - Pan ecológico integral 10
+ 0%
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261105T154510Z
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ensalada de lechuga\, tomate\, zanahoria y aceitunas - Guiso de pa
- tatas con lentejas\, zanahoria y pimiento - Queso fresco - Fruta: plátano
-  - Pan blanco ecológico
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261028
-DTSTAMP:20261005T124223Z
+SUMMARY:Crema de calabacín y puerros con queso - Abadejo al horno con ajo
+  y perejil - Patatas panaderas con pimientos al horno v.1 - Manzana - Pan 
+ blanco ecológico
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20261105T154510Z
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arroz blanco hervido con zanahoria\, calabacin y guisantes - Abade
- jo al horno con ajo y perejil - Ensalada de lechuga\, tomate y aceitunas -
-  Mandarina - Pan blanco ecológico
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261029
-DTSTAMP:20261005T124223Z
+SUMMARY:Arroz hervido con ajo\, aove y sal v.1 - Pinchitos de pollo al hor
+ no en salsa de pimiento y cebolla - Ensalada de lechuga\, maiz y atun - Fr
+ uta: plátano - Pan ecológico integral 100%
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20261105T154510Z
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ensalada de pasta integral con maiz\, zanahoria\, atún y aceituna
- s. - Tortilla francesa al horno v1 - Lechuga aliñada - Naranja - Pan blan
- co ecológico
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261030
-DTSTAMP:20261005T124223Z
+SUMMARY:Guiso de patatas con lentejas\, zanahoria\, calabacín y berenjena
+  - Tortilla de patata con calabacín ta v2 - Tomate y pepino aliñado v1 -
+  Naranja - Pan blanco ecológico
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20261105T154510Z
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crema de calabaza\, zanahoria y calabacín v2 - Merluza al horno c
+ on aceite de oliva y perejil v.2 - Patatas gajo especiadas al horno v1 - F
+ ruta: plátano - Pan blanco ecológico
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20261105T154510Z
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ensalada de lechuga\, huevo\, maiz\, pepino y naranja - Guiso de p
+ atatas con lentejas\, zanahoria y pimiento - Crudités de zanahoria - Mand
+ arina - Pan ecológico integral 100%
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261124
+DTSTAMP:20261105T154510Z
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cocido de patatas con garbanzos y fideos - Huevos revueltos - Mene
+ stra de zanahoria y brocoli hervida - Pera - Pan blanco ecológico
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20261105T154510Z
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cazuela de arroz con potón\, guisantes y zanahoria - Contramuslo 
+ de pollo al horno con salsa de tomate frito - Tomate aliñado con maiz - M
+ anzana - Pan ecológico integral 100%
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261105T154510Z
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Espirales integrales con salsa de tomate\, zanahoria\, cebolla\, p
+ imiento y queso - Tortilla francesa al horno v1 - Ensalada de lechuga\, pe
+ pino y queso fresco - Fruta: plátano - Pan blanco ecológico
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261105T154510Z
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crema de verduras con patata\, calabacín\, espinacas y cebolla - 
+ Contramuslo de pollo asado al horno al limón - Patatas panaderas con pimi
+ entos al horno v.1 - Fruta: plátano - Pan blanco ecológico
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20261105T154510Z
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pasta integral con tomate\, ternera y queso - Huevo duro v2 - Ensa
+ lada de lechuga\, maíz y zanahoria - Mandarina - Pan ecológico integral 
+ 100%
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20261105T154510Z
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tomate con lechuga\, brotes tiernos y atún - Crema de patatas y g
+ uisantes - Queso fresco - Fruta: plátano - Pan blanco ecológico
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261202
+DTSTAMP:20261105T154510Z
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Potaje de garbanzos con espinacas - Tortilla de patata con cebolla
+  ta v1 - Tomate aliñado - Manzana - Pan ecológico integral 100%
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261203
+DTSTAMP:20261105T154510Z
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arroz hervido con ajo\, aove y sal v.1 - Bacalao guisado con salsa
+  de tomate v1 - Ensalada de lechuga\, maiz y atun - Yogurt natural - Pan b
+ lanco ecológico
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261204
+DTSTAMP:20261105T154510Z
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 END:VEVENT
